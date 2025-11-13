@@ -7,15 +7,14 @@ Este repositório contém o trabalho da **Fase 3** do projeto de Banco de Dados,
 ---
 
 ## 📁 Estrutura de pastas e arquivos
+sql-trabalho-bd-fase3/
+```plaintext
 trabalho-bd-fase3/
-│
-├── fase3.sql # Script completo com todas as etapas (DDL, DML, DQL)
-├── inserts.sql # Inserções em todas as tabelas
-├── consultas.sql # Consultas e relatórios
-├── README.md # Explicações do projeto e estrutura
-└── exemplos_de_resultado/ # Prints ou arquivos CSV com resultados dos SELECTs
-
-
+├── fase3.sql
+├── inserts.sql
+├── consultas.sql
+├── README.md
+└── exemplos_de_resultado/
 ---
 
 ## 🧩 Descrição dos arquivos
