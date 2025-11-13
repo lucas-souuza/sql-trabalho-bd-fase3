@@ -15,6 +15,8 @@ trabalho-bd-fase3/
 ├── consultas.sql
 ├── README.md
 └── exemplos_de_resultado/
+```
+
 ---
 
 ## 🧩 Descrição dos arquivos
